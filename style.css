@@ -119,19 +119,3 @@ button:hover span {
 button:hover {
     border: none;
 }
-
-@keyframes animate {
-    0%{
-        background-image: url(img/background.jpg);
-    }20% {
-        background-image: url(img/desktop.jpeg);
-    }40% {
-        background-image: url(img/accessories.jpg);
-    }60% {
-        background-image: url(img/gaming\ chair.jpg );
-    }80% {
-        background-image: url(img/fifa\ 22.jpg);
-    }100% {
-        background-image: url(img/nba\ 2k22.jpg);
-    }
-}
